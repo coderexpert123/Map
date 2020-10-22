@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">normal Map</string>
+    <string name="hybrid_map">hybrid Map</string>
+    <string name="satellite_map">Sattelite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="title_activity_curret_maps">Map</string>
+</resources>
